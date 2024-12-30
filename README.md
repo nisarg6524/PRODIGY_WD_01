@@ -15,4 +15,3 @@ A visually appealing and fully responsive landing page designed for a pizza shop
 2. **CSS:** For styling, animations, and responsive design.  
 3. **JavaScript (Optional):** For interactivity, such as sliders or dynamic content updates.  
 
-[Live Demo](http://127.0.0.1:5500/index.html)
